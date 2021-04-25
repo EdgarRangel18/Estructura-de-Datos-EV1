@@ -12,25 +12,25 @@ while True:
 
     if opcion_usuario == 1:
         print("La forma en la que se presentan las listas es 1.- Descripcion, 2.- Cantidad de piezas vendidas, 3.- Precio")
-        Taladro = ["Es una herramienta eléctrica cuyo uso principal, en sus inicios, es realizar perforaciones en cualquier tipo de material",20,599.99]
-        print ("Taladro")
+        Brocha = ["Para la aplicación controlada del lápiz labial.",20,299.99]
+        print ("Procha")
         print (Taladro)
         print (separador)
-        Multimetro = ["Es un instrumento que permite medir directamente magnitudes eléctricas activas como corrientes y diferencia de potenciales o pasivas como resistencias, capacidades y otras",22,499.99]
-        print ("Multimetro")
-        print (Multimetro)
+        Labial = ["Powder Kiss. Formulado para colorear, definir y ostentar los labios.",22,199.99]
+        print ("Labial")
+        print (Labial)
         print (separador)
-        Broca = ["Es una herramienta metálica de corte que crea orificios circulares en diversos materiales cuando se coloca en una herramienta mecánica como taladro, berbiquí u otra máquina",36,199.99]
-        print ("Broca")
-        print (Broca)
+        Rimel = ["Máscara para pestañas a prueba de agua.",36,99.99]
+        print ("Rimel")
+        print (Rimel)
         print (separador)
-        Desarmador_Estrella = ["Es una herramienta que se utiliza para apretar y aflojar tornillos y otros elementos de máquinas que requieren poca fuerza de apriete y que generalmente son de diámetro pequeño",82,99.99]
-        print ("Desarmador Estrella")
-        print (Desarmador_Estrella)
+        Base = ["Base que combina un acabado matte natural y cobertura media a total.",82,49.99]
+        print ("Base")
+        print (Base)
         print (separador)
-        Desarmador_Plano = ["Es una herramienta que se utiliza para apretar y aflojar tornillos y otros elementos de máquinas que requieren poca fuerza de apriete y que generalmente son de diámetro pequeño",64,99.99]
-        print ("Desarmador Plano")
-        print (Desarmador_Plano)
+        Corrector = ["Corrector líquido de cobertura media a matte de larga duración, 15 horas.",64,99.99]
+        print ("Corrector de ojeras")
+        print (Corrector)
         print (separador)
         opcion=1
         identificador = input("\nIngresa tu identificador: ")
