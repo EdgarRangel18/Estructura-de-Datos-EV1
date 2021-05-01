@@ -13,8 +13,8 @@ while True:
     if opcion_usuario == 1:
         print("La forma en la que se presentan las listas es 1.- Descripcion, 2.- Cantidad de piezas vendidas, 3.- Precio")
         Brocha = ["Para la aplicación controlada del lápiz labial.",20,299.99]
-        print ("Procha")
-        print (Taladro)
+        print ("Brocha")
+        print (Brocha)
         print (separador)
         Labial = ["Powder Kiss. Formulado para colorear, definir y ostentar los labios.",22,199.99]
         print ("Labial")
@@ -29,7 +29,7 @@ while True:
         print (Base)
         print (separador)
         Corrector = ["Corrector líquido de cobertura media a matte de larga duración, 15 horas.",64,99.99]
-        print ("Corrector de ojeras")
+        print ("Corrector")
         print (Corrector)
         print (separador)
         opcion=1
